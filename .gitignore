@@ -7,3 +7,4 @@ build.bat
 *.db
 package-lock.json
 nodes_modules
+.env
