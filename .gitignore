@@ -6,5 +6,5 @@ build.bat
 .vscode
 *.db
 package-lock.json
-nodes_modules
+node_modules
 .env

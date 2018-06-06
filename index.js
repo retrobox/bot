@@ -7,7 +7,7 @@ var opus = require("opusscript");
 var prefix = "!";
 
 bot.on("ready", function() {
-  bot.user.setGame("!retrobox");
+  bot.user.setActivity("!retrobox", {"type": "PLAYING"});
   console.log("Je suis connecté !");
 });
 
