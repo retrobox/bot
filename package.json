@@ -1,15 +1,15 @@
 {
-  "name": "retroboxbot",
+  "name": "retrobox-bot",
   "version": "1.0.0",
-  "description": "RetroBox",
+  "description": "The RetroBox Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "StoneSet",
+  "author": "Thingmill",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.js": "12.2",
     "dotenv": "^6.0.0",
     "opusscript": "0.0.6"
   }
